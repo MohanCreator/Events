@@ -1,0 +1,29 @@
+.button-event {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+}
+
+.list-container {
+  list-style-type: none;
+}
+
+.list-items {
+  margin: 20px;
+  width: 50vh;
+  height: 300px;
+}
+
+.heading-item {
+  color: white;
+  font-family: 'roboto';
+}
+
+.para-item {
+  color: white;
+  font-family: 'roboto';
+}
+
+.list-image {
+  height: 200px;
+}
